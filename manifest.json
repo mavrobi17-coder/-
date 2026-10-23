@@ -1,0 +1,12 @@
+{
+  "name": "OfflineProfileDemo",
+  "short_name": "Profile Demo",
+  "description": "Неофіційний локальний демонстраційний макет",
+  "lang": "uk",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#1769aa",
+  "icons": []
+}
